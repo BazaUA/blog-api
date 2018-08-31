@@ -10,7 +10,6 @@ import javax.persistence.criteria.Predicate;
 import javax.persistence.criteria.Root;
 
 import com.bazalytskyi.test.data.entity.BlogPost;
-import com.bazalytskyi.test.data.metamodel.BlogPost_;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
